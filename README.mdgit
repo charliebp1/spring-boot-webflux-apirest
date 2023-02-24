@@ -1,0 +1,2 @@
+"# spring-boot-webflux-apirest"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/charliebp1/spring-boot-webflux-apirest.gitgit push -u origin main
+"# spring-boot-webflux-apirest"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/charliebp1/spring-boot-webflux-apirest.gitgit push -u origin main
