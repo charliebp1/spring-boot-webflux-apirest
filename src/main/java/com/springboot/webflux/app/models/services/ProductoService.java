@@ -16,6 +16,8 @@ public interface ProductoService {
 	
 	public Mono<Producto> findById(String id);
 	
+	public Mono<Producto> findByNombre(String nombre);
+	
 	public Mono<Producto> save(Producto producto);
 	
 	public Mono<Void> delete(Producto producto);
@@ -23,6 +25,8 @@ public interface ProductoService {
 	public Flux<Categoria> findAllCategoria();
 	
 	public Mono<Categoria> findCategoriaById(String id);
+	
+	public Mono<Categoria> findCategoriaByNombre(String nombre);
 	
 	public Mono<Categoria> saveCategoria(Categoria categoria);
 	
