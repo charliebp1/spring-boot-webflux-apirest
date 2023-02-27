@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.springboot.webflux.app.SpringBootWebfluxApirestApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.313 s - in com.springboot.webflux.app.SpringBootWebfluxApirestApplicationTests
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.679 s - in com.springboot.webflux.app.SpringBootWebfluxApirestApplicationTests
